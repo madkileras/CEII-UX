@@ -1,5 +1,5 @@
-#CEII UX
+<b>CEII UX<b>
 
-Instrucciones
-1.- Clonar
-2.- Copiar tu propio wp-config.php
+Instrucciones<br>
+1.- Clonar<br>
+2.- Copiar tu propio wp-config.php<br>
